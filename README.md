@@ -146,12 +146,10 @@ After running the application:
 - **Space Complexity**: O(n) for storing the Huffman tree and encoding tables
  
  ---
-
 ## 👤 Maintainer
-Shristi Pathak
-LinkedIn: https://www.linkedin.com/in/shristi-p-483a4612a/
 
----
+**Shristi Pathak**
+- LinkedIn: [@shristi-pathak](https://www.linkedin.com/in/shristi-pathak/)
 
 **Note**: This project was developed as a learning exercise to understand algorithm and data structures in Java.
 
