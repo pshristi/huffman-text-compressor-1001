@@ -153,4 +153,7 @@ LinkedIn: https://www.linkedin.com/in/shristi-p-483a4612a/
 
 ---
 
+**Note**: This project was developed as a learning exercise to understand algorithm and data structures in Java.
+
+
 **Happy Compressing! 🗜️**
