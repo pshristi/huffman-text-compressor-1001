@@ -147,9 +147,9 @@ After running the application:
  
  ---
 ## 👤 Maintainer
-
 **Shristi Pathak**
-- LinkedIn: [@shristi-pathak](https://www.linkedin.com/in/shristi-pathak/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/shristi-pathak)
 
 **Note**: This project was developed as a learning exercise to understand algorithm and data structures in Java.
 
